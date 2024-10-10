@@ -1,0 +1,52 @@
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Dependency Files
+*.d
+*.dep
+*.dwo
+
+# Coverage Files
+*.gcno
+*.gcda
+*.gcov
+
+# Temporary Files
+*~
+*.swp
+*.swo
+*.tmp   
+
+
+SnakeGame
